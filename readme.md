@@ -4,5 +4,5 @@ https://danieroj.github.io/myweb154.github.io/myweb/
 
 <hr>
 
-[](wuiose.PNG)
+![code_minimap](wuiose.PNG)
 
